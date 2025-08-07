@@ -1,0 +1,10 @@
+*.tgz
+expo plugin.code-workspace
+.DS_Store
+node_modules/
+.git/
+.gitignore
+*.log
+test/
+tests/
+.env
